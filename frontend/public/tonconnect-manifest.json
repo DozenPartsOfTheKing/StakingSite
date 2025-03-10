@@ -1,0 +1,8 @@
+{
+  "url": "https://staking.example.com",
+  "name": "Staking Platform",
+  "iconUrl": "https://staking.example.com/logo.png",
+  "termsOfUseUrl": "https://staking.example.com/terms",
+  "privacyPolicyUrl": "https://staking.example.com/privacy",
+  "redirectUrl": "https://staking.example.com/login"
+} 
